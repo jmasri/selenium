@@ -82,7 +82,7 @@ The user should see in the table the providers which are enabled from the operat
 
 --image here
 
-### White List Updater Statuses
+### 3.1 White List Updater Statuses
 
  When running the wite list update, the following statuses are expected to appear:
 
@@ -116,7 +116,7 @@ This tab is the main tab for updating the data for the provider&#39;s stations.
 
 In this table, the user can see the tasks assigned to them.
 
-### Tasks Columns
+### 5.1 Tasks Columns
 
 The **station** column,  shows the name of the station according to the provider info, until the operator doesn&#39;t change the name. The in this field will be written the new name.
 
@@ -128,7 +128,7 @@ According to the requirements for the specific provider, there will be additiona
 
 The last title in the table is for the **status** of the task. It could be &quot;open&quot; - if it is not started yet, or &quot;missing req.&quot; - if it is started but in progress.
 
-### Task filters
+### 5.2 Task filters
 
 On the top of the window, user can use filter fields. There the user can filter the results by status, coordinates, and provider. The status could be open and missing req. As mentioned earlier.
 
@@ -136,7 +136,7 @@ The coordinates can be Inaccurate which means they have to be adjusted and we st
 
 With a click on the button  --image here , the user can start to edit the data for the related station.
 
-### Edit Mode
+### 5.3 Edit Mode
 
 This mode is designed to provide an easy and intuitive possibility to the user to enter the best data for the new position(station). Here the user can see where exactly is the position(station) on the map and to find if there are any suitable suggestions for this position/station
 
