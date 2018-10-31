@@ -3,24 +3,25 @@
 # Table of contents
 1. [Login](https://github.com/jmasri/selenium/blob/master/README.md#1login)
 
-2. [Settings …(Feature under development)]
+2. [Dashboard](https://github.com/jmasri/selenium/blob/master/README.md#2dashboard)
 
-3. [Dashboard](https://github.com/jmasri/selenium/blob/master/README.md#2dashboard)
-
-4. [Providers](https://github.com/jmasri/selenium/blob/master/README.md#3providers)
-   [White List Updater Statuses](https://github.com/jmasri/selenium/blob/master/README.md#white-list-updater-statuses)
+3. [Providers](https://github.com/jmasri/selenium/blob/master/README.md#3providers)
    
-5. [Export Tab]( Info missing)(https://github.com/jmasri/selenium/blob/master/README.md#4)
+   3.1 [White List Updater Statuses](https://github.com/jmasri/selenium/blob/master/README.md#white-list-updater-statuses)
+   
+4. [Export Tab]( Info missing)(https://github.com/jmasri/selenium/blob/master/README.md#4export-tab--info-missing)
 
-6. [Tasks](https://github.com/jmasri/selenium/blob/master/README.md#5)
+5. [Tasks](https://github.com/jmasri/selenium/blob/master/README.md#5tasks)
 
-   Tasks Columns
+   5.1 [Tasks Columns](https://github.com/jmasri/selenium/blob/master/README.md#tasks-columns)
 
-   Tasks Filters
+   5.2 [Tasks Filters](https://github.com/jmasri/selenium/blob/master/README.md#task-filters)
 
-   Edit mode
+   5.3 [Edit mode](https://github.com/jmasri/selenium/blob/master/README.md#edit-mode)
 
-7. Requirements
+6. [Requirements](https://github.com/jmasri/selenium/blob/master/README.md#6requirements)
+
+7. [User Management](https://github.com/jmasri/selenium/blob/master/README.md#7user-management)
 
 
 
