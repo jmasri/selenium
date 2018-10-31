@@ -54,7 +54,7 @@ Requirements
 
 
 
-## ##1.Login
+## 1.Login
 
 To login to Torkin open the link: [https://torkin.goeuro.com.qa.goeuro.ninja/login](https://torkin.goeuro.com.qa.goeuro.ninja/login)
 
