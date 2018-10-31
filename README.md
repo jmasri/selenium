@@ -49,7 +49,6 @@ Also, there is a possibility to log out.
 
 
 
-
 # 2.Dashboard
 
 --image here
@@ -69,6 +68,7 @@ _Ready_ (how many stations were done automatically)
 _Last run_ (timestamp of the last run of WLU for the provider).
 
 The system gives the user the ability to view the opened and the ready tasks by clicking on the hyperlinked numbers.
+
 
 
 
@@ -198,6 +198,7 @@ In the blank fields, the operator has to write the data which is necessary. (we 
 For the operator automatically will be open the next task from the list and the saved one will be moved to tab &quot;Export&quot; where can be deployed to the DB.
 
 
+
 # 6.Requirements
 
 This tab helps user in creating new tasks for required translations for new providers.
@@ -209,6 +210,7 @@ Once in update process, here the required translation field will appear with the
 --image here
 
 Editing requirements does the same function as adding, and can be reached using this button --image here
+
 
 
 # 7.User Management
