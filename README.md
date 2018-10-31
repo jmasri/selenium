@@ -1,5 +1,6 @@
 # Table of contents
-1. (##1.Login)
+1. [Login](#1.Login)
+2. ##Login
 2. [Settings …(Feature under development)]
 3. [Dashboard](##2.Dashboard)
 
@@ -8,6 +9,27 @@
 
 
 
+Login
+
+Settings …(Feature under development)
+
+Dashboard
+
+Providers
+
+White List Updater Statuses
+
+Export tab ( Info missing)
+
+Tasks
+
+Tasks Columns
+
+Tasks Filters
+
+Edit mode
+
+Requirements
 
 
 
@@ -29,7 +51,11 @@
 
 
 
-## 1.Login
+
+
+
+
+## ##1.Login
 
 To login to Torkin open the link: [https://torkin.goeuro.com.qa.goeuro.ninja/login](https://torkin.goeuro.com.qa.goeuro.ninja/login)
 
