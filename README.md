@@ -54,7 +54,7 @@ Requirements
 
 
 
-## 1.Login 
+# 1.Login 
 
 To login to Torkin open the link: [https://torkin.goeuro.com.qa.goeuro.ninja/login](https://torkin.goeuro.com.qa.goeuro.ninja/login)
 
@@ -79,7 +79,7 @@ Also, there is a possibility to log out.
 
 
 
-## ##2.Dashboard
+## 2.Dashboard
 
 --image here
 
@@ -101,12 +101,7 @@ The system gives the user the ability to view the opened and the ready tasks by 
 
 
 
-
-
-1.
-##
-## 3.
-Providers
+### 3.Providers
 
 In this tab, the user can manage the providers - to start the WLU (Wite list updater), rebuild the XML, change requirements, etc.
 
