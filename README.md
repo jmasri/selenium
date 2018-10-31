@@ -1,36 +1,10 @@
 # Table of contents
-1. [Login](##1.Login)
-1. ##Login
+1. (##1.Login)
 2. [Settings …(Feature under development)]
 3. [Dashboard](##2.Dashboard)
 
 
 # Torkin - Operator User Manual
-
-
-
-Login
-
-Settings …(Feature under development)
-
-Dashboard
-
-Providers
-
-White List Updater Statuses
-
-Export tab ( Info missing)
-
-Tasks
-
-Tasks Columns
-
-Tasks Filters
-
-Edit mode
-
-Requirements
-
 
 
 
