@@ -1,5 +1,5 @@
 # Table of contents
-1. [Login](#1.Login)
+1. [Login](#1.Login) <a name="Login"></a>
 2. ##Login
 2. [Settings …(Feature under development)]
 3. [Dashboard](##2.Dashboard)
@@ -55,7 +55,7 @@ Requirements
 
 
 
-## 1.Login <a name="Login"></a>
+## 1.Login 
 
 To login to Torkin open the link: [https://torkin.goeuro.com.qa.goeuro.ninja/login](https://torkin.goeuro.com.qa.goeuro.ninja/login)
 
