@@ -1,6 +1,6 @@
 # Torkin - Operator User Manual
 
-# Table of contents
+## Table of contents
 1. [Login](https://github.com/jmasri/selenium/blob/master/README.md#1login)
 
 2. [Dashboard](https://github.com/jmasri/selenium/blob/master/README.md#2dashboard)
@@ -9,7 +9,7 @@
    
    3.1 [White List Updater Statuses](https://github.com/jmasri/selenium/blob/master/README.md#white-list-updater-statuses)
    
-4. [Export Tab]( Info missing)(https://github.com/jmasri/selenium/blob/master/README.md#4export-tab--info-missing)
+4. [Export Tab](https://github.com/jmasri/selenium/blob/master/README.md#4export-tab--info-missing)
 
 5. [Tasks](https://github.com/jmasri/selenium/blob/master/README.md#5tasks)
 
