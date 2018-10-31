@@ -7,12 +7,12 @@
 
 3. [Dashboard](https://github.com/jmasri/selenium/blob/master/README.md#2dashboard)
 
-4. [Providers] (https://github.com/jmasri/selenium/blob/master/README.md#3providers)
-   [White List Updater Statuses]
+4. [Providers](https://github.com/jmasri/selenium/blob/master/README.md#3providers)
+   [White List Updater Statuses](https://github.com/jmasri/selenium/blob/master/README.md#white-list-updater-statuses)
    
-5. [Export Tab] ( Info missing) (https://github.com/jmasri/selenium/blob/master/README.md#4)
+5. [Export Tab]( Info missing)(https://github.com/jmasri/selenium/blob/master/README.md#4)
 
-6. [Tasks] (https://github.com/jmasri/selenium/blob/master/README.md#5)
+6. [Tasks](https://github.com/jmasri/selenium/blob/master/README.md#5)
 
    Tasks Columns
 
@@ -49,7 +49,7 @@ Also, there is a possibility to log out.
 
 
 
-## 2.Dashboard
+# 2.Dashboard
 
 --image here
 
@@ -71,7 +71,7 @@ The system gives the user the ability to view the opened and the ready tasks by 
 
 
 
-### 3.Providers
+# 3.Providers
 
 In this tab, the user can manage the providers - to start the WLU (Wite list updater), rebuild the XML, change requirements, etc.
 
@@ -81,7 +81,7 @@ The user should see in the table the providers which are enabled from the operat
 
 --image here
 
-# White List Updater Statuses
+### White List Updater Statuses
 
  When running the wite list update, the following statuses are expected to appear:
 
@@ -101,13 +101,13 @@ In this case, **please contact the admin**.
 
 After finishing the WLU with status &quot;success&quot;, your tasks will be uploaded in tab &quot;Tasks&quot; and all the data for this provider will be overwritten (all the stations which are not done and merged) in Torkin.
 
-## 4.Export tab ( Info missing)
+# 4.Export tab ( Info missing)
 
 
 
 
 
-## 5.Tasks
+# 5.Tasks
 
 This tab is the main tab for updating the data for the provider&#39;s stations.
 
@@ -115,7 +115,7 @@ This tab is the main tab for updating the data for the provider&#39;s stations.
 
 In this table, the user can see the tasks assigned to them.
 
-## Tasks Columns
+### Tasks Columns
 
 The **station** column,  shows the name of the station according to the provider info, until the operator doesn&#39;t change the name. The in this field will be written the new name.
 
@@ -127,7 +127,7 @@ According to the requirements for the specific provider, there will be additiona
 
 The last title in the table is for the **status** of the task. It could be &quot;open&quot; - if it is not started yet, or &quot;missing req.&quot; - if it is started but in progress.
 
-## Task filters
+### Task filters
 
 On the top of the window, user can use filter fields. There the user can filter the results by status, coordinates, and provider. The status could be open and missing req. As mentioned earlier.
 
@@ -135,7 +135,7 @@ The coordinates can be Inaccurate which means they have to be adjusted and we st
 
 With a click on the button  --image here , the user can start to edit the data for the related station.
 
-## Edit Mode
+### Edit Mode
 
 This mode is designed to provide an easy and intuitive possibility to the user to enter the best data for the new position(station). Here the user can see where exactly is the position(station) on the map and to find if there are any suitable suggestions for this position/station
 
@@ -197,7 +197,7 @@ In the blank fields, the operator has to write the data which is necessary. (we 
 For the operator automatically will be open the next task from the list and the saved one will be moved to tab &quot;Export&quot; where can be deployed to the DB.
 
 
-## 6.Requirements
+# 6.Requirements
 
 This tab helps user in creating new tasks for required translations for new providers.
 
@@ -210,4 +210,4 @@ Once in update process, here the required translation field will appear with the
 Editing requirements does the same function as adding, and can be reached using this button --image here
 
 
-## 7.User Management
+# 7.User Management
