@@ -33,7 +33,6 @@ And enter your credentials:
 
 --image here
 
-![alt text](https://drive.google.com/file/d/1subY-2JIt7zobLf5S3laSOXcA00tlpE6/view)
 
 For any problems with signing in, click on &quot; **Contact us**&quot;.
 
