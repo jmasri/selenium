@@ -1,3 +1,9 @@
+# Table of contents
+1. [Login](##1.Login)
+2. [Settings …(Feature under development)]
+3. [Dashboard](##2.Dashboard)
+
+
 # Torkin - Operator User Manual
 
 
@@ -46,10 +52,9 @@ Requirements
 
 
 
-1.
-##
-## 1.
-Login
+
+
+## ##1.Login
 
 To login to Torkin open the link: [https://torkin.goeuro.com.qa.goeuro.ninja/login](https://torkin.goeuro.com.qa.goeuro.ninja/login)
 
@@ -73,10 +78,8 @@ Also, there is a possibility to log out.
 
 
 
-1.
-##
-## 2.
-Dashboard
+
+## ##2.Dashboard
 
 --image here
 
